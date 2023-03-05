@@ -1,0 +1,5 @@
+fade
+pystyle
+colorama
+Fore
+requests

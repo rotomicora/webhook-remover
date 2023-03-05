@@ -27,7 +27,7 @@ Abrir el archivo "Start.bat"
 **Clonar el repositorio**
 
 ```bash
-git clone https://github.com/franafp/webhook-remvover
+git clone https://github.com/franafp/webhook-remover
 ```
 
 **Instalar librerias**
@@ -44,7 +44,7 @@ python webhook_remover.py
 
 ### Uso
 
-**Simplemente introduces una webhook y el mensaje con el que quieres spamear la webhook**
+**Simplemente introduces una webhook y si es válida será eliminada con éxito**
 
 
 https://wtp.franafp.com/posts/webhook-remover

@@ -47,4 +47,4 @@ python webhook_remover.py
 **Simplemente introduces una webhook y si es válida será eliminada con éxito**
 
 
-https://wtp.franafp.com/posts/webhook-remover
+https://help.franafp.com/github/webhook-remover
